@@ -1,0 +1,13 @@
+machine_id,machine_name,line,machine_type,install_year,ideal_cycle_sec
+M01,CNC-01,Line A,CNC Machine,2019,42
+M02,CNC-02,Line A,CNC Machine,2020,42
+M03,Press-03,Line A,Hydraulic Press,2016,30
+M04,Robot-04,Line A,Robot Arm,2022,25
+M05,Pack-05,Line B,Packaging,2021,12
+M06,Pack-06,Line B,Packaging,2021,12
+M07,Press-07,Line B,Hydraulic Press,2015,30
+M08,Conveyor-08,Line B,Conveyor,2018,10
+M09,CNC-09,Line C,CNC Machine,2023,42
+M10,Robot-10,Line C,Robot Arm,2023,25
+M11,Pack-11,Line C,Packaging,2020,12
+M12,Conveyor-12,Line C,Conveyor,2017,10
